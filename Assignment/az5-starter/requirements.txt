@@ -1,0 +1,5 @@
+numpy
+torch
+matplotlib
+pytest
+jupyter      # to run the notebooks on a local machine
